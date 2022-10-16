@@ -1,0 +1,10 @@
+C:\Users\STUDENT\source\repos\ArrayDecorator\bin\Debug\ArrayDecorator.exe.config
+C:\Users\STUDENT\source\repos\ArrayDecorator\bin\Debug\ArrayDecorator.exe
+C:\Users\STUDENT\source\repos\ArrayDecorator\bin\Debug\ArrayDecorator.pdb
+C:\Users\STUDENT\source\repos\ArrayDecorator\obj\Debug\ArrayDecorator.csprojAssemblyReference.cache
+C:\Users\STUDENT\source\repos\ArrayDecorator\obj\Debug\ArrayDecorator.Form1.resources
+C:\Users\STUDENT\source\repos\ArrayDecorator\obj\Debug\ArrayDecorator.Properties.Resources.resources
+C:\Users\STUDENT\source\repos\ArrayDecorator\obj\Debug\ArrayDecorator.csproj.GenerateResource.cache
+C:\Users\STUDENT\source\repos\ArrayDecorator\obj\Debug\ArrayDecorator.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\source\repos\ArrayDecorator\obj\Debug\ArrayDecorator.exe
+C:\Users\STUDENT\source\repos\ArrayDecorator\obj\Debug\ArrayDecorator.pdb
